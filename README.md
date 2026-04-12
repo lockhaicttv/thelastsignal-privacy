@@ -1,1 +1,110 @@
-# thelastsignal-privacy
+# Privacy Policy for The Last Signal
+
+**Effective Date:** April 12, 2026  
+**Last Updated:** April 12, 2026
+
+## Introduction
+
+This Privacy Policy explains how "The Last Signal" ("we", "our", or "the app") handles your information. We are committed to protecting your privacy.
+
+## Data Collection
+
+**We do NOT collect, store, or transmit any personal information.**
+
+The Last Signal is a fully offline social deduction game that:
+- Does not require user registration
+- Does not collect personal data
+- Does not track user behavior
+- Does not use analytics services
+- Does not share data with third parties
+
+## Local Storage Only
+
+All game data is stored **locally on your device only**:
+- Game settings and preferences
+- Custom keywords you create
+- Language preferences
+- Premium package unlock status (after purchase)
+
+This data:
+- Never leaves your device
+- Is not backed up to cloud services
+- Is deleted when you uninstall the app
+- Cannot be accessed by us or any third party
+
+## Permissions
+
+The app requires the following permissions:
+
+### Required Permissions:
+- **INTERNET** - Only used for:
+  - In-app purchase verification with Google Play Store
+  - App updates (via Expo framework)
+  - No personal data is transmitted
+- **VIBRATE** - For haptic feedback during gameplay (optional)
+- **MODIFY_AUDIO_SETTINGS** - For sound effects and music volume control
+
+### File Import Feature:
+- The app can import custom keywords from Excel files (.xlsx)
+- Uses Android's **Storage Access Framework** - you manually select files via system file picker
+- No automatic access to your files or folders
+- Files are only read when you explicitly choose them via the file picker
+- File content is processed locally and never uploaded or shared
+
+### No Sensitive Permissions:
+The app does NOT use or request:
+- ❌ Camera access
+- ❌ Microphone/recording access
+- ❌ Location access
+- ❌ Contacts access
+- ❌ SMS/Phone access
+- ❌ Background file storage access
+
+## In-App Purchases
+
+If you make in-app purchases:
+- Transactions are handled securely by Google Play Store
+- We do not store your payment information
+- Google Play's privacy policy applies to payment data
+- See: https://policies.google.com/privacy
+
+## Third-Party Services
+
+The app uses Expo framework for app infrastructure. Expo does not collect personal information from our app. See Expo's privacy policy: https://expo.dev/privacy
+
+## Children's Privacy
+
+The Last Signal is suitable for users of all ages. We do not knowingly collect information from children under 13 (or applicable age in your jurisdiction).
+
+## Changes to Privacy Policy
+
+We may update this policy occasionally. Changes will be posted here with an updated "Last Updated" date.
+
+## Data Security
+
+Since we don't collect data, there is no data to secure or breach. All your game data stays on your device.
+
+## Your Rights
+
+You have full control over your data:
+- All data is local to your device
+- Delete the app to remove all data
+- No data to request, export, or delete from our servers
+
+## Contact Us
+
+If you have questions about this Privacy Policy:
+
+**Email:** lockhaicttv@gmail.com
+
+---
+
+## Summary (TL;DR)
+
+✅ We do NOT collect any personal data  
+✅ Everything stays on your device  
+✅ No tracking, no analytics, no cloud storage  
+✅ In-app purchases handled by Google Play  
+✅ Fully offline game (except purchase verification)  
+
+**Your privacy is protected because we simply don't collect anything.**
